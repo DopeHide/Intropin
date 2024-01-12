@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Assests",
-    "\\Assests\\Others"
+    "\\Assests\\JS",
+    "\\Assests\\Others\\Emulate"
   ],
-  "SelectedNode": "\\Assests\\CSS",
+  "SelectedNode": "\\Assests\\JS\\index.js",
   "PreviewInSolutionExplorer": false
 }
